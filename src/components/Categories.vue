@@ -16,7 +16,7 @@ import { ref } from 'vue'
         </div>
         <div class="card">
           <div class="card-content">
-            <h3>Sala Sets</h3>
+            <h3>Wooden Sala Sets</h3>
           </div>
         </div>
         <div class="card">
@@ -26,22 +26,22 @@ import { ref } from 'vue'
         </div>
         <div class="card">
           <div class="card-content">
-            <h3>Wooden Beds</h3>
+            <h3>Stainless Beds</h3>
           </div>
         </div>
         <div class="card">
           <div class="card-content">
-            <h3>Wooden Beds</h3>
+            <h3>Sofa Sala Set</h3>
           </div>
         </div>
         <div class="card">
           <div class="card-content">
-            <h3>Wooden Beds</h3>
+            <h3>Foams</h3>
           </div>
         </div>
         <div class="card">
           <div class="card-content">
-            <h3>Wooden Beds</h3>
+            <h3>Wooden Dinning Tables</h3>
           </div>
         </div>
       </div>
